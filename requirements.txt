@@ -1,0 +1,7 @@
+functions-framework==3.*
+instagrapi
+requests
+oauth2client
+google-api-python-client
+Pillow>=8.1.1
+google-cloud-storage
